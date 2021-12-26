@@ -20,8 +20,8 @@
   "require": {
     "php": ">=7.1",
     "ext-json": "*",
-    "doctrine/inflector": "^1.2",
-    "doctrine/collections": "^2.0.4",
+    "doctrine/inflector": "^2.0.4",
+    "doctrine/collections": "^1.5",
     "psr/http-client": "^1.0",
     "psr/http-factory": "^1.0"
   },
